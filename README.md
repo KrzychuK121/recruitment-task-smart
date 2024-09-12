@@ -16,7 +16,8 @@ You may also see any lint errors in the console.
 
 First of all I tried to solve the task in my head, without typing any code yet. Then, I found out I don't know how
 TypeScript and Redux works. So i watched React course and learned how to use them. The application evolved while I was
-following the list of tasks to do.
+following the list of tasks to do. I know that in larger application I should be using different type of import so
+application will work better, but I thought that this application is small enough to not use this approach.
 
 ## Challenges
 
