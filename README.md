@@ -12,6 +12,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Explanation of approach
+
+First of all I tried to solve the task in my head, without typing any code yet. Then, I found out I don't know how
+TypeScript and Redux works. So i watched React course and learned how to use them. The application evolved while I was
+following the list of tasks to do.
+
 ## Challenges
 
 * No knowledge about TypeScript or Redux (or Redux Toolkit).
